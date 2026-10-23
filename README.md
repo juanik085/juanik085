@@ -21,4 +21,4 @@ Sumiller reconvertido en desarrollador: atención al detalle, buen paladar y gan
 
 ## Contacto
 
-[![Email](https://img.shields.io/badge/juanik085@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanik085@gmail.com)
+[![Email](https://img.shields.io/badge/juanfiguedev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfiguedev@gmail.com)
