@@ -28,11 +28,14 @@ Sumiller reconvertido en desarrollador: atención al detalle, buen paladar y gan
 ## Proyectos
 
 ### 🎸 GUSANOH
-Web para el grupo de música GUSANOH, con estética rock y diseño propio.
+
+Web oficial de GUSANOH, banda de alternative rock de Murcia: música con reproductor, próximos directos, la banda, vídeos y contacto. Diseño propio con estética rock.
+
+[![GUSANOH](https://gusanoh.netlify.app/og-cover.png)](https://gusanoh.netlify.app/)
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[Ver código](https://github.com/juanik085/NOMBRE-DEL-REPO) · [Ver web](https://TU-WEB.netlify.app)
+[Ver código](https://github.com/juanik085/GUSANOH-rock-band) · [Ver web](https://gusanoh.netlify.app/)
